@@ -52,7 +52,7 @@ The chatbot uses predefined intents and conversational flows to provide user-fri
 ```
 Financial-Advisor-Chatbot/
 │── README.md
-│── Kommunicate FinBot.png
+│── Kommunicate FinBot.png.png
 │── kommunicate.png
 │── Break even.png
 │── Budget Advice.png
